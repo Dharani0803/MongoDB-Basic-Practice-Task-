@@ -1,4 +1,4 @@
-# MongoDB-Basic-Practice-Task-
+# MongoDB-Basic Practice Task
 # 📘 MongoDB CRUD – Student Database
 
 ## 📌 Objective
